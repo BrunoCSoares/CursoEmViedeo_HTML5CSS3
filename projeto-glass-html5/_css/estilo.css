@@ -210,3 +210,10 @@ footer#rodape {
 footer#rodape p {
   text-align: center;
 }
+
+video#outras{
+  width: 500px;
+}
+video#fazer{
+  width: 350px;
+}
